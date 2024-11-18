@@ -1,5 +1,5 @@
 import express, { json } from 'express' 
-import { artistRouter } from './routes/artists.js'
+import { artistRouter } from './routes/artists'
 
 
 const app = express()
